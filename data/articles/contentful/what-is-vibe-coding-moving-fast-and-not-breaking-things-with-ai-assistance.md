@@ -184,14 +184,14 @@ Avery is a Product Marketing Manager at Contentful, where he helps shape go-to-m
 See more
 Related articles
 Guides
-How to use Yup validation for HTML forms in React
-May 2, 2024
+What is an AVIF image? The AVIF image format explained
+May 7, 2025
 Guides
-Build a blog with Next.js, Tailwind CSS, and Contentful
-July 24, 2025
+How to use the Next.js app directory: Complete guide and tutorial
+January 17, 2025
 Guides
-Ecommerce A/B testing: Step-by-step guide to get started
-May 22, 2025
+4 best practices to ensure your JavaScript is SEO friendly
+November 11, 2024
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

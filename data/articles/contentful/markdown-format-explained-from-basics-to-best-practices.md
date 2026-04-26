@@ -231,14 +231,14 @@ Brittany is a Senior Learning Experience Designer at Contentful, creating develo
 See more
 Related articles
 Guides
-Best VS Code extensions for developer productivity
-July 10, 2025
+The best LLM for translation: Quality, speed, and coverage compared
+November 21, 2025
 Guides
 Blazor vs. React: Choosing a frontend framework
 June 16, 2025
 Guides
-GraphQL introspection queries: How to query and explore GraphQL APIs
-November 7, 2024
+Mastering landing page A/B testing: A guide for success
+June 6, 2025
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

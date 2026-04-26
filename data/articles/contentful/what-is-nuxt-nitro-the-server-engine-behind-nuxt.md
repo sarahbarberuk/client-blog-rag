@@ -228,14 +228,14 @@ Marco is a B2B content creator and product marketer blending technical with crea
 See more
 Related articles
 Guides
-How to use TypeScript in your Next.js project
-June 24, 2024
+How to generate types with cf-content-types-generator
+March 25, 2026
 Guides
-What is an AVIF image? The AVIF image format explained
-May 7, 2025
+How to use PropTypes in React
+March 3, 2025
 Guides
-MCP vs. RAG: How AI models access and act on external data
-December 3, 2025
+Understanding AI by its building blocks: The AI ecosystem
+March 5, 2026
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

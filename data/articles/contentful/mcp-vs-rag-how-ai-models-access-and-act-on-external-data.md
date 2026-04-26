@@ -159,14 +159,14 @@ Niko is a product manager of developer experience at Contentful. Also, an MCP en
 See more
 Related articles
 Guides
-How to create a Next.js redirect in 4 ways (with examples)
-September 20, 2024
+GraphQL introspection queries: How to query and explore GraphQL APIs
+November 7, 2024
 Guides
-Combining GraphQL multiple queries to boost performance
-February 7, 2025
+Webpack alternatives: 5 top JavaScript bundles
+July 21, 2025
 Guides
-Model Context Protocol: The new AI connection standard
-August 7, 2025
+How to build an API with the best GraphQL performance
+July 9, 2025
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

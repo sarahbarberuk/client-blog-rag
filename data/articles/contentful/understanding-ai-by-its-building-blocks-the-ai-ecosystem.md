@@ -93,14 +93,14 @@ Scott is a Senior Product Architect - Internal Tools at Contentful, based in Mad
 See more
 Related articles
 Guides
-Mastering GraphQL filters
-April 7, 2025
+How to use the Next.js app directory: Complete guide and tutorial
+January 17, 2025
 Guides
-Introduction to Fastify: A practical guide to building Node.js web apps
-June 23, 2025
+Integrating Contentful with Microsoft Teams using Adaptive Cards
+July 5, 2024
 Guides
-How (and why) to use TypeScript with Svelte, with examples
-July 2, 2024
+The ultimate guide to choosing a React component library
+October 30, 2024
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

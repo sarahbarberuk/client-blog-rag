@@ -168,14 +168,14 @@ Alex is an AI Product Manager at Contentful with a focus on leveraging LLMs, nat
 See more
 Related articles
 Guides
-How to create a Next.js redirect in 4 ways (with examples)
-September 20, 2024
+How to build a product page with Commerce Layer, Cloudinary and Contentful
+November 22, 2024
 Guides
-React pagination tutorial: 4 ways with full code examples
-September 22, 2024
+Static vs. dynamic websites: Building the best website for your users
+April 2, 2024
 Guides
-GraphQL introspection queries: How to query and explore GraphQL APIs
-November 7, 2024
+Which is the best React rich text editor? Five options compared
+March 18, 2025
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

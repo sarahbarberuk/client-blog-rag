@@ -214,14 +214,14 @@ Marco is a Senior Software Engineer at Contentful.
 See more
 Related articles
 Guides
-Effortless automatic content linking in Next.js using Content Source Maps
-September 30, 2024
+Static vs. dynamic websites: Building the best website for your users
+April 2, 2024
 Guides
-Ultimate starter guide to A/B testing with best practices
-May 13, 2025
+TypeScript interfaces: How-to guide, best practices, and code examples
+April 23, 2025
 Guides
-Understanding AI by its building blocks: The AI ecosystem
-March 5, 2026
+How to query a GraphQL API using Python and Flask
+July 31, 2025
 Ready to start building?
 Put everything you learned into action. Create and publish your content with Contentful — no credit card required.
 Get started

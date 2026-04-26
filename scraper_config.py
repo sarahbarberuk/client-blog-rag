@@ -8,8 +8,9 @@ SCRAPER_CONFIGS = {
         "title_selector": 'p[class*="card_with_image_title"]',
         "date_selector": 'p[class*="card_with_image_description"]',
         "base_url": "https://www.contentful.com",
+        "sitemap_url": "https://www.contentful.com/sitemap",
         "needs_click_to_load_more": True,
-        "load_more_selector": 'button:has-text("See more articles")',
+        "load_more_selector": 'button:has-text("See more")',
         "load_more_delay": 2000,
         "wait_until": "domcontentloaded"
 
